@@ -20,3 +20,6 @@ Rules:
 Example:
   wave("hello") => ["Hello", "hEllo", "heLlo", "helLo", "hellO"]
 */
+
+
+// Solution
